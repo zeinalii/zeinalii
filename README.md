@@ -32,21 +32,24 @@ I am a data scientist passionate about finding hidden patterns in large-scale da
 ### 📝 Latest Peer-Reviewed Publications
 
 1. **[A new mathematical approach to predict the actual drug release from hydrogels](https://www.sciencedirect.com/science/article/abs/pii/S0928098717305304)**  
-   _European Journal of Pharmaceutical Sciences_ 
+   _European Journal of Pharmaceutical Sciences_
+   
    Cited by: 52  
    Year: 2018  
 
-2. **[The trans-kingdom battle between donor and recipient gut microbiome influences fecal microbiota transplantation outcome](https://www.nature.com/articles/s41598-020-75162-x)**  
+3. **[The trans-kingdom battle between donor and recipient gut microbiome influences fecal microbiota transplantation outcome](https://www.nature.com/articles/s41598-020-75162-x)**  
    _Scientific Reports_
+   
    Cited by: 42
+   
    Year: 2020  
 
-3. **[Synthesis and characterization of graphene-grafted gelatin nanocomposite hydrogels as emerging drug delivery systems](https://iopscience.iop.org/article/10.1088/2057-1976/aad745/meta)**  
+5. **[Synthesis and characterization of graphene-grafted gelatin nanocomposite hydrogels as emerging drug delivery systems](https://iopscience.iop.org/article/10.1088/2057-1976/aad745/meta)**  
    _Biomedical Physics & Engineering Express_
    Cited by: 41  
    Year: 2018  
 
-4. **[Fast synthesis of methacrylated graphene oxide: a graphene-functionalised nanostructure](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/mnl.2017.0461)**  
+6. **[Fast synthesis of methacrylated graphene oxide: a graphene-functionalised nanostructure](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/mnl.2017.0461)**  
    _Micro & Nano Letters_  
    Cited by: 9  
    Year: 2017  
