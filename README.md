@@ -38,7 +38,7 @@ I am a data scientist passionate about finding hidden patterns in large-scale da
 
 3. **[The trans-kingdom battle between donor and recipient gut microbiome influences fecal microbiota transplantation outcome](https://www.nature.com/articles/s41598-020-75162-x)**  
    _Scientific Reports_\
-   Cited by: 42
+   Cited by: 42\
    Year: 2020  
 
 5. **[Synthesis and characterization of graphene-grafted gelatin nanocomposite hydrogels as emerging drug delivery systems](https://iopscience.iop.org/article/10.1088/2057-1976/aad745/meta)**  
