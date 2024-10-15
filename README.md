@@ -32,12 +32,12 @@ I am a data scientist passionate about finding hidden patterns in large-scale da
 ### 📝 Latest Peer-Reviewed Publications
 
 1. **[A new mathematical approach to predict the actual drug release from hydrogels](https://www.sciencedirect.com/science/article/abs/pii/S0928098717305304)**  
-   _European Journal of Pharmaceutical Sciences_
+   _European Journal of Pharmaceutical Sciences_\
    Cited by: 52  
    Year: 2018  
 
 3. **[The trans-kingdom battle between donor and recipient gut microbiome influences fecal microbiota transplantation outcome](https://www.nature.com/articles/s41598-020-75162-x)**  
-   _Scientific Reports_
+   _Scientific Reports_\
    Cited by: 42
    Year: 2020  
 
